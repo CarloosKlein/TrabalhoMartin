@@ -1,0 +1,7 @@
+C:\Users\2019100129\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoPCMenu\TrabalhoPCMenu\bin\Debug\TrabalhoPCMenu.exe.config
+C:\Users\2019100129\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoPCMenu\TrabalhoPCMenu\bin\Debug\TrabalhoPCMenu.exe
+C:\Users\2019100129\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoPCMenu\TrabalhoPCMenu\bin\Debug\TrabalhoPCMenu.pdb
+C:\Users\2019100129\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoPCMenu\TrabalhoPCMenu\obj\Debug\TrabalhoPCMenu.csprojAssemblyReference.cache
+C:\Users\2019100129\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoPCMenu\TrabalhoPCMenu\obj\Debug\TrabalhoPCMenu.csproj.CoreCompileInputs.cache
+C:\Users\2019100129\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoPCMenu\TrabalhoPCMenu\obj\Debug\TrabalhoPCMenu.exe
+C:\Users\2019100129\OneDrive - Complexo de Ensino Superior do Brasil LTDA\TrabalhoPCMenu\TrabalhoPCMenu\obj\Debug\TrabalhoPCMenu.pdb
